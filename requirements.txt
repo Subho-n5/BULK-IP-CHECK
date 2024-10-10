@@ -1,0 +1,8 @@
+getpass
+datetime
+requests
+json
+xlsxwriter
+re
+country_converter
+pyfiglet
